@@ -1,4 +1,4 @@
 # first_demo
 This is my first Git Repository.
 <br>
-Author-Naeem Khan
+Author-Rana Naeem Khan Joyia
